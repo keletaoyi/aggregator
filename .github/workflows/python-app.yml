@@ -1,0 +1,4 @@
+python subscribe/collect.py \
+    -g username/gist-id \
+    -k your-github-token \
+    -t clash v2ray singbox
